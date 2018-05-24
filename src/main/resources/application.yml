@@ -1,0 +1,11 @@
+spring:  
+  application:
+    name: techannotation-booking-service-mvc 
+
+# turn off the security on the actuator end points as this is a demo app
+#security:
+#  basic:
+#    enabled: false    
+
+booking-service-dao:
+  url: https://techannotation-booking-service-dao.cfapps.io
