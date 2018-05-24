@@ -8,4 +8,4 @@ spring:
 #    enabled: false    
 
 booking-service-dao:
-  url: https://techannotation-booking-service-dao.cfapps.io
+  url: http://booking-service-dao-project-2.1d35.starter-us-east-1.openshiftapps.com/
